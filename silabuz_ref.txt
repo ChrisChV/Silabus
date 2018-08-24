@@ -1,0 +1,53 @@
+NRO 			USUARIO
+0			Juan Mendoza
+1			Alonso Mujica
+2			Daniel Balboa
+3			Rafael Rodriguez
+4			Oscar Palacio
+5			Isaac Joel Tejeda
+6			Silabuz SAC
+7			Alfredo Arredondo
+8			Lorena Salazar
+9			Sergio Alva
+10			Ricardo Palacios
+11			Ricardo Puma
+12			Joaquin Herrera
+13			Juan Jose Yucra
+14			Jhony Angulo
+15			Antonio Culqui
+16			Sebastian Hurtado
+17			Candy Velasquez
+18			Armando Picon
+19			Daniel Roque
+20			Danny Llanos
+21			Jhon Requejo
+22			Albert Tario
+23			Gerald Perez
+24			Nelson Castañeda
+25			Ronaldo Elorriaga
+26			Diego Isla
+27			Nefi Santillan
+28			Edw Martinez
+29			Stefano Mujica
+30			Juan Pablo
+31			Osvarcha Jean Franco
+32			Ronald Passano
+33			Haziel Babilonia
+34			Robotec Peru
+35			Saul Montañez
+36			Eduardo Madrid
+37			Lara Francesca
+38			Cesar Soriano
+39			Rotsabet Sanchez
+40			Jack barroilhet
+41			Guianela Ochavano
+42			Paul Soldevilla
+43			Juan Regalado
+44			Jorge Hernandez
+45			Yeison Huaman
+46			Tania Vigo
+47			German Preciado
+48			Carlos Trelles
+49			Leandro Chiok
+50			Amanda Medina
+
