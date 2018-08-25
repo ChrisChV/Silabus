@@ -25,6 +25,7 @@ for z in file:
 	matrix[int(w[0])][int(w[1])]=int(w[2])
 print(matrix)
 
+
 #print(matrix[285])
 #print("-----------------------------")
 #print("here-> ",1./2)
@@ -39,6 +40,8 @@ R = np.array([
     [0, 1, 5, 4],
 ])
 """
+
+
 R = np.array(matrix)
 # Perform training and obtain the user and item matrices 
 mf = MF(R, K=2, alpha=0.1, beta=0.01, iterations=20)
@@ -49,3 +52,32 @@ print(mf.Q)
 print("=================")
 #print(mf[0])
 print(mf.full_matrix())
+
+fullMatrix = mf.full_matrix()
+mayor = -1;
+menor = -1;
+newMayor = 5;
+
+for vec in fullMatrix:
+	for x in vec:
+		if(mayor == -1 or mayor < x):
+			mayor = x
+		if(menor == -1 or menor > x):
+			menor = x
+
+print(fullMatrix)
+print(mayor)
+print(menor)
+
+NewMatrix = []
+for vec in fullMatrix:	
+	NewMatrix.append([(newMayor)/(mayor - menor) * (x - mayor) + newMayor for x in vec])
+
+for vec in NewMatrix:
+	print(vec)
+
+
+
+
+
+
